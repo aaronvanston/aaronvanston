@@ -1,4 +1,4 @@
-Hey, I'm Aaron 👋
+# Hey, I'm Aaron 👋
 
 I build tools for builders. CTO & Co-Founder of [BuildPass](https://buildpass.com.au).
 
