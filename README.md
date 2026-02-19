@@ -21,4 +21,3 @@ I build tools for builders. CTO & Co-Founder of [BuildPass](https://buildpass.co
 ### Agent Skills
 
 - 🎤 Agent Skills: https://github.com/aaronvanston/agent-skills
-- 🧩 Convex skills: https://github.com/aaronvanston/skills-convex
