@@ -17,6 +17,7 @@ I build tools for builders. CTO & Co-Founder of [BuildPass](https://buildpass.co
 - 🗂️ vault-cli: https://github.com/aaronvanston/vault-cli
 - 🥣 granola-cli: https://github.com/aaronvanston/granola-cli
 - ⌨️ kbr-viz: https://github.com/aaronvanston/kbr-viz
+- 🖼️ github-screenshot-lightbox: https://github.com/aaronvanston/github-screenshot-lightbox
 
 ### Agent Skills
 
