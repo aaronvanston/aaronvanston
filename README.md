@@ -18,6 +18,7 @@ I build tools for builders. CTO & Co-Founder of [BuildPass](https://buildpass.co
 - <a href="https://github.com/aaronvanston/vault-cli"><img src="assets/icons/vault-cli.svg" width="20" height="20" align="top" alt="" /></a> [vault-cli](https://github.com/aaronvanston/vault-cli): Maintenance commands for an Obsidian vault
 - <a href="https://github.com/aaronvanston/granola-cli"><img src="assets/icons/granola-cli.svg" width="20" height="20" align="top" alt="" /></a> [granola-cli](https://github.com/aaronvanston/granola-cli): Pull Granola meeting notes and transcripts from the CLI
 - <a href="https://github.com/aaronvanston/kbr-viz"><img src="assets/icons/kbr-viz.svg" width="20" height="20" align="top" alt="" /></a> [kbr-viz](https://github.com/aaronvanston/kbr-viz): Real-time keyboard visualiser for checking key mappings
+- <a href="https://github.com/aaronvanston/rc-keyboard-visualiser"><img src="assets/icons/rc-keyboard-visualiser.svg" width="20" height="20" align="top" alt="" /></a> [rc-keyboard-visualiser](https://github.com/aaronvanston/rc-keyboard-visualiser): Raycast extension that shows keystrokes on a full-screen overlay
 - <a href="https://github.com/aaronvanston/github-screenshot-lightbox"><img src="assets/icons/github-screenshot-lightbox.svg" width="20" height="20" align="top" alt="" /></a> [github-screenshot-lightbox](https://github.com/aaronvanston/github-screenshot-lightbox): Opens GitHub screenshots in a lightbox
 
 ### Agent Skills
