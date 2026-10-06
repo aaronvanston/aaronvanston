@@ -14,6 +14,8 @@ I build tools for builders. CTO & Co-Founder of [BuildPass](https://buildpass.co
 
 ### Tools
 
+- <a href="https://github.com/aaronvanston/arbor"><img src="assets/icons/arbor.svg" width="20" height="20" align="top" alt="" /></a> [Arbor](https://github.com/aaronvanston/arbor): Mac app that pools your Claude and Codex subscriptions and shares them with every machine you own
+- <a href="https://github.com/aaronvanston/ultradian"><img src="assets/icons/ultradian.svg" width="20" height="20" align="top" alt="" /></a> [Ultradian](https://github.com/aaronvanston/ultradian): Gated schedules for AI, where cheap checks decide when an agent runs
 - <a href="https://github.com/aaronvanston/skipr"><img src="assets/icons/skipr.svg" width="20" height="20" align="top" alt="" /></a> [skipr](https://github.com/aaronvanston/skipr): Multi-account manager for your coding agents
 - <a href="https://github.com/aaronvanston/vault-cli"><img src="assets/icons/vault-cli.svg" width="20" height="20" align="top" alt="" /></a> [vault-cli](https://github.com/aaronvanston/vault-cli): Maintenance commands for an Obsidian vault
 - <a href="https://github.com/aaronvanston/granola-cli"><img src="assets/icons/granola-cli.svg" width="20" height="20" align="top" alt="" /></a> [granola-cli](https://github.com/aaronvanston/granola-cli): Pull Granola meeting notes and transcripts from the CLI
