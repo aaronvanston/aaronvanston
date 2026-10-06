@@ -14,7 +14,7 @@
     "garnet": "#B83A3A"
   },
   "icons": {
-    "arbor": { "icon": "TreeDeciduous", "color": "emerald" },
+    "arbor": { "icon": "Leaf01", "color": "emerald" },
     "ultradian": { "icon": "Pulse01", "color": "amethyst" },
     "thinking-vault-template": { "icon": "AiBrain03", "color": "ruby" },
     "cli-template": { "icon": "ComputerTerminal02", "color": "sapphire" },
