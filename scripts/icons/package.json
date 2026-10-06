@@ -1,0 +1,11 @@
+{
+  "name": "profile-icons",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@hugeicons-pro/core-duotone-rounded": "^4.3.4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$comment": "One entry per README icon. `icon` is a Hugeicons Pro duotone-rounded export name (without the DuotoneRounded suffix); `custom` points at a hand-drawn SVG in custom/ that uses currentColor.",
+  "palette": {
+    "emerald": "#10A36E",
+    "amethyst": "#9B5DE5",
+    "ruby": "#E0245E",
+    "sapphire": "#2F74E0",
+    "aquamarine": "#0FA3B1",
+    "topaz": "#E9A20C",
+    "carnelian": "#E8702A",
+    "tanzanite": "#6366F1",
+    "spinel": "#E0469A",
+    "peridot": "#6FAE1C",
+    "garnet": "#B83A3A"
+  },
+  "icons": {
+    "arbor": { "icon": "Leaf01", "color": "emerald" },
+    "ultradian": { "icon": "Pulse01", "color": "amethyst" },
+    "thinking-vault-template": { "icon": "AiBrain03", "color": "ruby" },
+    "cli-template": { "icon": "ComputerTerminal02", "color": "sapphire" },
+    "skipr": { "icon": "SailboatOffshore", "color": "aquamarine" },
+    "vault-cli": { "icon": "MoneySafe", "color": "topaz" },
+    "granola-cli": { "icon": "OrganicFood", "color": "carnelian" },
+    "kbr-viz": { "icon": "Keyboard", "color": "tanzanite" },
+    "rc-keyboard-visualiser": { "custom": "rc-keyboard-visualiser.svg", "color": "spinel" },
+    "github-screenshot-lightbox": { "icon": "Walpaper", "color": "peridot" },
+    "agent-skills": { "icon": "AiBook", "color": "garnet" }
+  }
+}
